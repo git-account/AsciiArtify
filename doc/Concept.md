@@ -1,3 +1,10 @@
+Key Takeaway
+Kind is your choice for CI/CD and testing Kubernetes conformance with multi-node setups.
+
+K3d is your choice for speed, low resource usage, and rapid PoC development.
+
+Minikube is your choice for beginners and using a system that closely mirrors a full-featured, single-node local cluster with easy add-ons.
+
 | Feature | Kind (Kubernetes IN Docker) | K3d (K3s in Docker) | Minikube |
 |---|---|---|---|
 | Supported OS & Arch | Linux, macOS, Windows (Any OS running Docker). Supports amd64, arm64. | Linux, macOS, Windows (Any OS running Docker). Supports amd64, arm64. | Linux, macOS, Windows. Relies on VM drivers (VirtualBox, Hyperkit, etc.) or Docker. Supports amd64, arm64. |
