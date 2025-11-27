@@ -1,4 +1,5 @@
-Key Takeaway
+Key Takeaway:
+
 Kind is your choice for CI/CD and testing Kubernetes conformance with multi-node setups.
 
 K3d is your choice for speed, low resource usage, and rapid PoC development.
