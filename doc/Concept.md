@@ -34,4 +34,4 @@
 | Main Disadvantage | Requires manual effort for add-ons (Ingress, dashboard). | Reduced feature set (K3s trades off full features for lightness). | Slow startup and heavier resource usage (especially with VM drivers). |
 
 ### Kind demo:
-![Image](doc/demo.gif)
+![Image](demo.gif)
