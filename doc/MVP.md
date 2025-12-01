@@ -17,7 +17,9 @@ kubectl -n argocd get secret argocd-initial-admin-secret -o jsonpath="{.data.pas
 - Username: admin
 - Password: output of the command above
 
-## 3) Click "+ NEW APP"
+## 3) Log in to port-forwarded application on port 8080
+
+## 4) Click "+ NEW APP"
 
 ```bash
 Example:
@@ -32,6 +34,6 @@ Namespace: demo
 
 ``` 
 
-## 3) Click "CREATE"
+## 5) Click "CREATE"
 
 Wait for sync to complete
