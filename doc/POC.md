@@ -19,8 +19,8 @@ k3d --version
 ## 2) Create a k3d cluster
 
 ```bash
-k3d cluster create codespace
-kubectl cluster-info --context k3d-codespace
+k3d cluster create argo
+kubectl cluster-info --context k3d-argo
 ```
 
 ## 3) Install Argo CD
