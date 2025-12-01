@@ -2,7 +2,7 @@
 ---
 ## Main conclusions:
 
-### Overall it is best to use Kind. Explanations below:
+### Overall it is best to use Kind or K3D. Explanations below:
 
 - Kind is your choice for CI/CD and testing Kubernetes conformance with multi-node setups.
 - K3d is your choice for speed, low resource usage, and rapid PoC development.
